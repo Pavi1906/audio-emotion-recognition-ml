@@ -1,0 +1,8 @@
+tensorflow     # Deep learning framework for model building and training
+keras             # High-level neural networks API running on top of TensorFlow
+librosa           # Python package for audio and music analysis
+numpy            # Library for numerical computations, especially matrices and arrays
+scikit-learn      # Machine learning library for data processing and model evaluation
+matplotlib         # Plotting library for creating graphs and visualizations
+pandas             # Data analysis library for handling datasets
+h5py               # HDF5 support library to store and manage model files
